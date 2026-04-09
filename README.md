@@ -13,7 +13,7 @@
 
 ### Ulug'bek · he/him · Urgench, Uzbekistan
 
-*
+
 15 year old Full Stack Developer with 2-3 years of experience. 
 
 I build clean, modern web apps with great user experiences.*
