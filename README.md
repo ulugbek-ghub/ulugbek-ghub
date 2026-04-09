@@ -1,5 +1,8 @@
 # 💫 About Me:
-the Kugoo online marketplace. (React project)
+Safarboyev Ulug'bek
+15 year old Full Stack Developer with 2-3 years of experience from the heart of Central Asia Uzbekistan!
+
+I build clean, modern web apps with great user experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ulugbekk.s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ulugbek.github@gmail.com)
