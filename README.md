@@ -1,6 +1,6 @@
 # 💫 About Me:
-Safarboyev Ulug'bek
-15 year old Full Stack Developer with 2-3 years of experience from the heart of Central Asia Uzbekistan!
+I am Safarboyev Ulug'bek. 
+A 15 year old Full Stack Developer with 2-3 years of experience, from the heart of Central Asia Uzbekistan!
 I build clean, modern web apps with great user experiences.
 
 ## 🌐 Socials:
