@@ -11,10 +11,11 @@
  ########  ########## ########   ########      #########  ########## ###    ### 
 ```
 
-### Ulug'bek · he/him · Urgench, Uzbekistan
+### Safarboyev Ulug'bek · he/him · Urgench, Uzbekistan
 
 15 year old Full Stack Developer with 2-3 years of experience.
-I build clean, modern web apps with great user experiences.
+I build clean, modern web apps with great user experiences. 
+I also know English at B2-C1 level.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ulugbek-cv.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ulugbek.github@gmail.com)
