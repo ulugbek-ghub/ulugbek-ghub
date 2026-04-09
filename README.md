@@ -1,25 +1,91 @@
-# 💫 About Me:
-I am Safarboyev Ulug'bek. 
-A 15 year old Full Stack Developer with 2-3 years of experience, from the heart of Central Asia Uzbekistan!
-I build clean, modern web apps with great user experiences.
+<!-- Header -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/ulugbekk.s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ulugbek.github@gmail.com)
+```
+██╗   ██╗██╗     ██╗   ██╗ ██████╗ ██████╗ ███████╗██╗  ██╗
+██║   ██║██║     ██║   ██║██╔════╝ ██╔══██╗██╔════╝██║ ██╔╝
+██║   ██║██║     ██║   ██║██║  ███╗██████╔╝█████╗  █████╔╝ 
+██║   ██║██║     ██║   ██║██║   ██║██╔══██╗██╔══╝  ██╔═██╗ 
+╚██████╔╝███████╗╚██████╔╝╚██████╔╝██████╔╝███████╗██║  ██╗
+ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+**he/him · Uzbekistan, Khorezm, Urgench**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ulugbek-ghub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ulugbek-ghub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbek-ghub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+*A bio, i guess.*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ulugbek-ghub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ulugbek--cv.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ulugbek-cv.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ulugbek.github%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ulugbek.github@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ulugbek-ghub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=ulugbek-ghub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⬛ Tech Stack
+
+<div align="center">
+
+<!-- Languages -->
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## ⬛ GitHub Stats
+
+<div align="center">
+
+![ulugbek-ghub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulugbek-ghub&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbek-ghub&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ulugbek-ghub&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ffffff)
+
+</div>
+
+---
+
+## ⬛ Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Color-Pallete-React**](https://github.com/ulugbek-ghub/Color-Pallete-React) | Color Palette website | `React` `JavaScript` |
+| [**USD-to-UZS-React**](https://github.com/ulugbek-ghub/USD-to-UZS-React) | Dollar to UZS calculator | `React` `CSS` |
+| [**To-Do-List-React**](https://github.com/ulugbek-ghub/To-Do-List-React) | To do list app | `React` `CSS` |
+| [**Ulugbek-CV**](https://github.com/ulugbek-ghub/Ulugbek-CV) | Personal CV website | `CSS` |
+| [**IT-Park-React**](https://github.com/ulugbek-ghub/IT-Park-React) | IT Park React lessons | `React` `JavaScript` |
+
+---
+
+## ⬛ Daily Plan
+
+```
+✦  1+ commit       — at least one commit per day
+✦  learn daily     — explore new concepts or frameworks
+✦  build things    — ship something, however small
+```
+
+---
+
+<div align="center">
+
+*Urgench → Internet*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ulugbek-ghub.ulugbek-ghub&left_color=black&right_color=black&left_text=visitors)
+
+</div>
